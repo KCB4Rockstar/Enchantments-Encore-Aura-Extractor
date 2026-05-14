@@ -7,9 +7,6 @@
 # If inventory is full the book drops at the player's feet.
 # ============================================================
 
-# Create the tracking objective if it doesn't already exist
-scoreboard objectives add aura_found dummy
-
 # Reset the found-flag for this player
 scoreboard players set @s aura_found 0
 
