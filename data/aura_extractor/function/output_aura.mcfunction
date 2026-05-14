@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[Aura Extractor] ","color":"gold","bold":true},{"text":"Aura extracted and returned as an enchanted book.","color":"green"}]

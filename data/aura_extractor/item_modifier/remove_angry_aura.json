@@ -1,0 +1,7 @@
+{
+  "function": "minecraft:set_enchantments",
+  "enchantments": {
+    "enchantencore:angry_aura": 0
+  },
+  "add": false
+}
