@@ -1,1 +1,1 @@
-To use, run `/function aura_extractor:extract`
+To use, run `/trigger extract_aura`
